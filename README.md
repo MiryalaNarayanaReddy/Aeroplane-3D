@@ -2,14 +2,14 @@
 
 Welcome to my rendition of Airplane 3D
 
-#How to run(on Linux)-
+# How to run(on Linux)-
 ## Open terminal in current directory
 ## Run the following commands-
 + cmake CMakeLists.txt
 + make
 + ./graphics_asgn1
 
-#Controls-
+# Controls-
 
 ## 1-6 for different camera views
 ## W to move forward
